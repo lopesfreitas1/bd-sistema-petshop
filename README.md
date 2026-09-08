@@ -45,13 +45,4 @@ O sistema atende a um **petshop** que combina uma loja física de produtos para 
 - Registro de vendas de produtos, associando cliente, funcionário e itens vendidos;
 - Consulta ao histórico de serviços realizados por pet e ao histórico de compras por cliente.
 
-## 5. Estrutura do Repositório
 
-```
-.
-├── README.md
-└── modelagem/
-    └── MER.md
-```
-
-A modelagem conceitual completa (entidades, relacionamentos, atributos e diagrama) está detalhada no arquivo [`modelagem/MER.md`](./modelagem/MER.md).
